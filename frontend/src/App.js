@@ -70,7 +70,7 @@ function App() {
 
     setisloading(true)
     try {
-      const response = await fetch("https://ipl-prediction-1-h7b8.onrender.com/", {
+      const response = await fetch("https://ipl-prediction-xtt5.onrender.com/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
