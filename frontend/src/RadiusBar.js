@@ -19,8 +19,8 @@ function RadiusBar(props) {
     <div style={{ width: '100%', height: 300 }}>
       <ResponsiveContainer>
         <RadialBarChart
-          innerRadius="30%"
-          outerRadius="80%"
+          innerRadius="40%"
+          outerRadius="100%"
           data={data}
           startAngle={180}
           endAngle={0}
