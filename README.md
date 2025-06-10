@@ -6,6 +6,13 @@ A full-stack machine learning project that predicts the winning probability of a
 </p>
 
 <p>🔗 Live Demo: <a href="https://ipl-prediction-lac.vercel.app" target="_blank">ipl-prediction-lac.vercel.app</a></p>
+<h5>Desktop View</h5>
+<img src="https://github.com/user-attachments/assets/c5341543-6ceb-4c91-b52a-9a66d41df072" alt="Prediction Chart" width="500"/>
+<img src="https://github.com/user-attachments/assets/0ac519fb-d835-44f8-8e78-ba1c501d4293" alt="Prediction Chart" width="500"/>
+
+<h5>Mobile View</h5>
+<img src="https://github.com/user-attachments/assets/9734b07d-e29a-4bf7-b837-ba2f18c07032" alt="Prediction Chart" width="200"/>
+<img src="https://github.com/user-attachments/assets/82db7b7e-ba88-409a-84bf-7e345d23c0ad" alt="Prediction Chart" width="200"/>
 
 <h3>Features</h3>
 <ul>
@@ -31,7 +38,7 @@ A full-stack machine learning project that predicts the winning probability of a
 <p>
 The app displays appropriate error messages on the frontend when any of these conditions are not met. This ensures that predictions are only made on valid match scenarios.
 </p>
-
+<img src="https://github.com/user-attachments/assets/26a6465d-f2c4-43e3-bd20-4bbd2abc772f" alt="Prediction Chart" width="500"/>
 
 <h3>Tech Stack</h3>
 <ul>
